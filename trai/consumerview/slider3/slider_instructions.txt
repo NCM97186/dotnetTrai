@@ -1,0 +1,76 @@
+
+1. To change the height of slider following change to be made in "js" folder "jquery-ui.css" file following class
+
+
+
+.ui-slider-horizontal {
+
+
+            height: .6em;
+
+
+}
+
+
+ 
+
+
+2. To change the cursor image you have to change the image in image folder named "Cursor.jpg"
+
+
+ 
+
+
+3. To change the color of slider you have to change in "jquery-ui.css" following class
+
+
+ 
+
+
+
+.ui-widget-header {
+
+
+            border: 1px solid #aaaaaa;
+
+
+            background: #2C4B8E url(images/ui-bg_highlight-soft_75_cccccc_1x100.png) 50% 50% repeat-x;
+
+
+            color: #222222;
+
+
+            font-weight: bold;
+
+
+}
+
+
+ 
+
+
+here you can change the color according to your website theme
+
+
+ 
+
+
+4. to change the width of slider you have change that in .aspx page following line
+
+
+ 
+
+
+ <div id='slider-range' style='width:30%;'></div>
+
+
+ 
+
+
+If you put above div in exiting container then it will display the 30% width of that container. If you want to show this full width of container then its width should be 100%.
+
+
+ 
+
+
+Please find latest attached file with changes. Silder icon image you have to make as I don't have any knowledge to create images

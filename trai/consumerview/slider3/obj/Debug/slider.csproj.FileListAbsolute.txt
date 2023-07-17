@@ -1,0 +1,10 @@
+D:\Projects\slider\slider\slider\bin\slider.dll
+D:\Projects\slider\slider\slider\bin\slider.pdb
+D:\Projects\slider\slider\slider\obj\Debug\slider.dll
+D:\Projects\slider\slider\slider\obj\Debug\slider.pdb
+D:\Projects\slider\slider\slider\obj\Debug\slider.csprojResolveAssemblyReference.cache
+D:\D-Drive\Projects\slider\slider\bin\slider.dll
+D:\D-Drive\Projects\slider\slider\bin\slider.pdb
+D:\D-Drive\Projects\slider\slider\obj\Debug\slider.csprojResolveAssemblyReference.cache
+D:\D-Drive\Projects\slider\slider\obj\Debug\slider.dll
+D:\D-Drive\Projects\slider\slider\obj\Debug\slider.pdb

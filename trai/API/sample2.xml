@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TariffRecords>
+  <Tariff>
+    <TariffStatus>Added</TariffStatus>
+    <TariffID>712102</TariffID>
+    <Category>Voice Tariff</Category>
+    <RecordType>Talktime Topup</RecordType>
+    <Operator>Tata Docomo</Operator>
+    <Circle>Andhra Pradesh</Circle>
+    <Plan_Desc>Local calls free - STD calls free - Roaming Incoming and Outgoing calls free - 18000 Local and National SMS free - 125 GB - Data Validity 180 day(s) - Free SMS @ 100 SMS per day - For Non commercial use - TandC apply</Plan_Desc>
+  </Tariff>
+  <Tariff>
+    <TariffStatus>Added</TariffStatus>
+    <TariffID>712103</TariffID>
+    <Category>Voice Tariff</Category>
+    <RecordType>STV</RecordType>
+    <Operator>Vodafone</Operator>
+    <Circle>Andhra Pradesh</Circle>
+    <Plan_Desc>Local calls free - STD calls free - Roaming Incoming and Outgoing calls free - 18000 Local and National SMS free - 125 GB - Data Validity 190 day(s) - Free SMS @ 100 SMS per day - For Non commercial use - TandC apply</Plan_Desc>
+  </Tariff>
+  <Tariff>
+    <TariffStatus>Added</TariffStatus>
+    <TariffID>712104</TariffID>
+    <Category>Voice Tariff</Category>
+    <RecordType>Combo</RecordType>
+    <Operator>Aircel</Operator>
+    <Circle>Andhra Pradesh</Circle>
+    <Plan_Desc>Local calls free - STD calls free - Roaming Incoming and Outgoing calls free - 18000 Local and National SMS free - 125 GB - Data Validity 200 day(s) - Free SMS @ 100 SMS per day - For Non commercial use - TandC apply</Plan_Desc>
+  </Tariff>
+</TariffRecords>

@@ -1,0 +1,355 @@
+.b
+{
+    FONT-WEIGHT: 800
+}
+
+body 
+{ 
+margin: 0px; padding:0px; 
+background-attachment: fixed;
+background-repeat:no-repeat;
+background-position: left; 
+}
+
+SELECT
+{
+    BORDER-RIGHT: #524652 1px solid;
+    BORDER-TOP: #524652 1px solid;
+    FONT-SIZE: 13px;
+    BORDER-LEFT: #524652 1px solid;
+    BORDER-BOTTOM: #524652 1px solid;
+    FONT-FAMILY: Tahoma, Arial, Verdana,Arial
+}
+TEXTAREA
+{
+    BORDER-RIGHT: #524652 1px solid;
+    BORDER-TOP: #524652 1px solid;
+    FONT-SIZE: 11px;
+    BORDER-LEFT: #524652 1px solid;
+    BORDER-BOTTOM: #524652 1px solid;
+    FONT-FAMILY: Tahoma, Arial, Verdana,Arial
+}
+TD
+{
+    FONT-SIZE: 13px;
+    COLOR: #1a1a1a;
+    FONT-FAMILY: Tahoma, Arial, Verdana,Arial;
+}
+
+.tablehead
+{
+    FONT-SIZE: 12px;
+    BACKGROUND-COLOR: #51009c;
+    COLOR: #ffffff;
+    FONT-FAMILY: Tahoma, Arial, Verdana,Arial;
+    //FONT-WEIGHT: bold;
+}
+
+.tableheadcenter
+{
+    FONT-SIZE: 13px;
+    BACKGROUND-COLOR: #51009c;
+    COLOR: #ffffff;
+    text-align:center;
+    FONT-FAMILY: Tahoma, Arial, Verdana,Arial;
+    //FONT-WEIGHT: bold;
+}
+
+.tableheadsmall
+{
+    FONT-SIZE: 11px;
+    BACKGROUND-COLOR: #51009c;
+    COLOR: #ffffff;
+    FONT-FAMILY: Tahoma, Arial, Verdana,Arial;
+    //FONT-WEIGHT: bold;
+}
+.tableheadsmallcenter
+{
+    FONT-SIZE: 11px;
+    BACKGROUND-COLOR: #51009c;
+    COLOR: #ffffff;
+    text-align:center;
+    FONT-FAMILY: Tahoma, Arial, Verdana,Arial;
+    FONT-WEIGHT: bold;
+}
+
+
+
+.tablecellmenu
+{
+    FONT-SIZE: 14px;
+    BACKGROUND-COLOR: #f2e5ff;
+    COLOR: #2a2a2a;
+    FONT-FAMILY: Tahoma, Arial, Verdana,Arial
+}
+
+.tablecell
+{
+    FONT-SIZE: 13px;
+    BACKGROUND-COLOR: #ffffff;
+    COLOR: #2a2a2a;
+    FONT-FAMILY: Tahoma, Arial, Verdana,Arial
+}
+
+.tablecell2
+{
+    FONT-SIZE: 12px;
+    BACKGROUND-COLOR: #ffffff;
+    COLOR: #2a2a2a;
+    FONT-FAMILY: Tahoma, Arial, Verdana,Arial
+}
+.tablecell2b
+{
+    FONT-SIZE: 12px;
+    BACKGROUND-COLOR: #f2e5ff;
+    COLOR: #2a2a2a;
+    FONT-FAMILY: Tahoma, Arial, Verdana,Arial
+}
+
+.tablecell3
+{
+    FONT-SIZE: 13px;
+    BACKGROUND-COLOR: #dadada;
+    COLOR: #2a2a2a;
+    FONT-FAMILY: Tahoma, Arial, Verdana,Arial
+}
+
+.tablecell3b
+{
+    FONT-SIZE: 13px;
+    BACKGROUND-COLOR: #f5f5f5;
+    COLOR: #2a2a2a;
+    FONT-FAMILY: Tahoma, Arial, Verdana,Arial
+}
+.tablecell4
+{
+    FONT-SIZE: 11px;
+    BACKGROUND-COLOR: #eaeaea;
+    COLOR: #2a2a2a;
+    FONT-FAMILY: Tahoma, Arial, Verdana,Arial;
+    text-decoration:none;
+}
+.tablecell4b
+{
+    FONT-SIZE: 11px;
+    BACKGROUND-COLOR: #dadada;
+    COLOR: #2a2a2a;
+    FONT-FAMILY: Tahoma, Arial, Verdana,Arial;
+    text-decoration:none;
+}
+
+.tablecell4c
+{
+    FONT-SIZE: 11px;
+    BACKGROUND-COLOR: #ababab;
+    COLOR: #2a2a2a;
+    FONT-FAMILY: Tahoma, Arial, Verdana,Arial;
+    text-decoration:none;
+    FONT-WEIGHT: bold;
+}
+.tablecell4d
+{
+    FONT-SIZE: 11px;
+    BACKGROUND-COLOR: #cacaca;
+    COLOR: #2a2a2a;
+    FONT-FAMILY: Tahoma, Arial, Verdana,Arial;
+    text-decoration:none;
+    FONT-WEIGHT: bold;
+}
+
+.modal
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: black;
+    z-index: 99;
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+    -moz-opacity: 0.8;
+    min-height: 100%;
+    width: 100%;
+}
+.loading
+{
+    font-family: Arial;
+    font-size: 10pt;
+    border: 5px solid #67CFF5;
+    width: 200px;
+    height: 100px;
+    display: none;
+    position: fixed;
+    background-color: White;
+    z-index: 999;
+}
+
+.txtbox {
+background: url(images/txtbg.jpg) no-repeat top left;
+height: 25px;
+width: 250px;
+border: 0px;
+padding-left:25px;
+}
+.input
+{
+    BORDER-RIGHT: #666666 1px solid;
+    BORDER-TOP: #666666 1px solid;
+    FONT-SIZE: 13px;
+    BORDER-LEFT: #666666 1px solid;
+    COLOR: #333333;
+    BORDER-BOTTOM: #666666 1px solid;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Arial, Helvetica, sans-serif
+}
+
+.input1
+{
+    BORDER-RIGHT: #ffffff 1px solid;
+    BORDER-TOP: #ffffff 1px solid;
+    FONT-SIZE: 5px;
+    background-color:#ffffff;
+    BORDER-LEFT: #ffffff 1px solid;
+    COLOR: #ffffff;
+    BORDER-BOTTOM: #ffffff 1px solid;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Arial, Helvetica, sans-serif
+}
+
+.input2
+{
+    BORDER-RIGHT: #666666 1px solid;
+    BORDER-TOP: #666666 1px solid;
+    FONT-SIZE: 9px;
+    height:20px;
+    background-color:#ffffff;
+    BORDER-LEFT: #666666 1px solid;
+    COLOR: #000000;
+    BORDER-BOTTOM: #666666 1px solid;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Arial, Helvetica, sans-serif
+}
+
+.btn
+{
+    BORDER-RIGHT: #666666 1px solid;
+    BORDER-TOP: #666666 1px solid;
+    FONT-SIZE: 13px;
+    BORDER-LEFT: #666666 1px solid;
+    COLOR: #333333;
+    BORDER-BOTTOM: #666666 1px solid;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Arial, Helvetica, sans-serif;
+    -webkit-transition: all 0.30s ease-in-out;
+}
+.btn:focus
+{
+    box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+    border: 3px solid rgba(81, 203, 238, 1);
+}
+
+.txtbg
+{
+    BORDER-RIGHT: #7A68AE 1px solid;
+    BORDER-TOP: #7A68AE 1px solid;
+    FONT-SIZE: 13px;
+    BORDER-LEFT: #7A68AE 1px solid;
+    color : #ffffff;    
+    BORDER-BOTTOM: #7A68AE 1px solid;
+    BACKGROUND-COLOR: #7A68AE;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Arial, Helvetica, sans-serif
+}
+
+
+A
+{
+    COLOR: #5555ff;
+    TEXT-DECORATION: underline
+}
+A:hover
+{
+    COLOR: #121212;
+}
+.hover
+{
+    BACKGROUND-COLOR: #8a8a8a;
+}
+
+
+
+.indexlinks
+{
+    FONT-SIZE: 12px;
+    COLOR: #ffffff;
+	FONT-WEIGHT: bold;
+    FONT-FAMILY: Tahoma, Tahoma, Arial, Verdana,Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+.indexlinks2
+{
+    FONT-SIZE: 12px;
+    COLOR: #5555ff;
+    FONT-FAMILY: Tahoma, Tahoma, Arial, Verdana,Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+.indexlinks2EOD
+{
+    FONT-SIZE: 10px;
+    COLOR: #5555ff;
+    FONT-FAMILY: Tahoma, Tahoma, Arial, Verdana,Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+.indexlinks1
+{
+    FONT-SIZE: 11px;
+    COLOR: #445708;
+    FONT-FAMILY: Tahoma, Tahoma, Arial, Verdana,Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+.indexlinks_common
+{
+    FONT-SIZE: 12px;
+    COLOR: #5a5a8a;
+    FONT-FAMILY: Tahoma, Arial, Verdana,Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+
+.white
+{
+    COLOR: #ffffff
+}
+.boxContent
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    FONT-FAMILY: Tahoma, Arial, Verdana, Arial, Helvetica, sans-serif
+}
+
+
+
+
+/* This imageless css button was generated by CSSButtonGenerator.com */
+.mybutton {
+	-moz-box-shadow:inset 0px 1px 0px 0px #fce2c1;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #fce2c1;
+	box-shadow:inset 0px 1px 0px 0px #fce2c1;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ffc477), color-stop(1, #fb9e25) );
+	background:-moz-linear-gradient( center top, #ffc477 5%, #fb9e25 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffc477', endColorstr='#fb9e25');
+	background-color:#ffc477;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #eeb44f;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #cc9f52;
+}.mybutton:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #fb9e25), color-stop(1, #ffc477) );
+	background:-moz-linear-gradient( center top, #fb9e25 5%, #ffc477 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fb9e25', endColorstr='#ffc477');
+	background-color:#fb9e25;
+}.mybutton:active {
+	position:relative;
+	top:1px;
+}
